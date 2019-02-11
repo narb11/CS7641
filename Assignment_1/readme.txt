@@ -13,3 +13,9 @@ For testing on your own machine, you need to install all libraries mention in th
 Code will run with various flags. --['ANN', 'Boosting', 'DT', 'KNN', 'SVM']
 
 Code Credit goes to Chad Maron: https://github.com/cmaron/CS-7641-assignments/tree/master/assignment1
+
+
+CODE CAN BE FOUND: https://github.com/narb11/CS7641/tree/master/Assignment_1
+
+to run just use
+"run_experiment.py', args='--dt --threads=5', wdir='/CS7641/Assignment_1'"
